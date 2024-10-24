@@ -4,7 +4,7 @@ The Item List is an application created using Django that allows users to save a
 
 ## **Project Details**
 
-**Demo Video URL** : 
+**Demo Video URL** : [https://drive.google.com/file/d/1A1MEv5KpnfN-Si3RfSRnC-63hcPQQ1GF/view?usp=sharing]
 
 **Github Repository URL** : [https://github.com/Adi0091/Cracku]
 
